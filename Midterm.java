@@ -1,5 +1,7 @@
 public class Midterm{
 
-//fill this in
+    public static int times(int a, int b){
+        return a * b;
+    }
 
 }
