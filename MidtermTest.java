@@ -6,6 +6,7 @@ public class MidtermTest {
     @Test
     public void multiplication() {
     assertEquals(1, Midterm.times(1, 1)); 
+    }
     
     @Test
     public void multiplication2() {
