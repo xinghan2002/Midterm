@@ -8,7 +8,7 @@ public class MidtermTest {
     assertEquals(1, Midterm.times(1, 1)); 
     
     @Test
-    public void multiplication() {
+    public void multiplication2() {
     assertEquals(2, Midterm.times(1, 1)); //fails 
     }
 }
