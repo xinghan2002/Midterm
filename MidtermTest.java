@@ -10,6 +10,6 @@ public class MidtermTest {
     
     @Test
     public void multiplication2() {
-    assertEquals(2, Midterm.times(1, 1)); //fails 
+    assertEquals(2, Midterm.times(1, 2)); //fails 
     }
 }
